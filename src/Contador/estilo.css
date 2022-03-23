@@ -1,0 +1,29 @@
+.conteudo {
+	-fx-background-color: black;
+	-fx-font-family: Arial;
+}
+
+.numero{
+	-fx-text-fill: white;
+	-fx-font-size: 28px;
+}
+
+.titulo{
+	-fx-text-fill: white;
+	-fx-font-size: 28px;
+}
+
+.botoes{
+	-fx-background-color: #888a85;
+	-fx-text-fill: black;
+	-fx-font-size: 20px;
+	-fx-baxkgorund-radius: 10px;
+}
+
+.vermelho{
+	-fx-text-fill: red;
+}
+
+.verde{
+	-fx-text-fill: green;
+}
